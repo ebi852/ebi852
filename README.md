@@ -1,4 +1,4 @@
-
+![logo](https://github.com/ebi852/ebi852/blob/main/1739548658900.jpg)
 <h1 align="center">Hi 👋, I'm ebi</h1>
 <h3 align="center">A passionate frontend developer from Iran.</h3>
 
