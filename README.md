@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **University projects**
 
-- 🌱 I’m currently learning **deta in py and c++**
+- 🌱 I’m currently learning **NLP & Machine Vision and c++**
 
 - 🤝 I’m looking for help with [piano instruction](https://t.me/EbiEducation)
 
