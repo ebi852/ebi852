@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebi852&label=Profile%20views&color=0e75b6&style=flat" alt="ebi852" /> </p>
 
-- 🔭 I’m currently working on **University projects**
+- 🔭 Currently engaged in developing and implementing advanced university-level projects, focusing on practical applications and cutting-edge technologies.
 
-- 🌱 I’m currently learning **NLP & Machine Vision and c++**
+- 🌱 Currently expanding my expertise in Natural Language Processing (NLP), Machine Vision, and C++, focusing on practical implementations and advanced computational techniques.
 
-- 🤝 I’m looking for help with [piano instruction](https://t.me/EbiEducation)
+- 🤝 Passionate about piano and music education — exploring advanced techniques and sharing knowledge through [piano instruction](https://t.me/EbiEducation)
 
-- 💬 Ask me about **tkinter and py**
+- 💬An advanced Python project leveraging the Tkinter library for GUI development. Explore dynamic interfaces, event-driven programming, and interactive widgets, showcasing expertise in Python GUI applications.
 
 - 📫 How to reach me **ghoooo1385@gmail.com**
 
