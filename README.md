@@ -28,4 +28,5 @@
 <img align="right" alt="ebi" width="112" src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebi852&show_icons=true&locale=en&layout=compact" alt="ebi852" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebi852&show_icons=true&locale=en" alt="ebi852" /></p>
+
+<img align="right" alt="ebi" width="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRkaHU4a3dxYTR2cGQwanAybHpmMHlhd213ZHA0ZGEzbW5mZXVobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif">
