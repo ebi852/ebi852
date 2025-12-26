@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammadreza-ebrahimi-581653339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammadreza-ebrahimi-581653339/" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/mohammadreza%D9%80ebrahimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammadreza-ebrahimi-581653339/" height="30" width="40" /></a>
 <a href="https://instagram.com/tilitooons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tilitooons" height="30" width="40" /></a>
 </p>
 
@@ -29,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebi852&show_icons=true&locale=en&layout=compact" alt="ebi852" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebi852&show_icons=true&locale=en" alt="ebi852" /></p>
-<img align="right" alt="ebi" width="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRkaHU4a3dxYTR2cGQwanAybHpmMHlhd213ZHA0ZGEzbW5mZXVobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebi852&" alt="ebi852" /></p>
